@@ -88,6 +88,8 @@ npx http-server .
 
 Then visit http://localhost:8080/ (or your local port) to view the app.
 
+```
+
 📂 Project Structure
 inspire-me/
 ├── index.html          # Main HTML structure
@@ -98,6 +100,7 @@ inspire-me/
 ├── assets/             # Optional: images or icons
 └── README.md           # Project documentation
 
+```
 🧰 Technologies Used
 
 HTML5 – Page structure
